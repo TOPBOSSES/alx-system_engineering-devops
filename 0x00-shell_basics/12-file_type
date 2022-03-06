@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -la . ../boot
+#!/bin/bush
+file /tmp/iamafile
